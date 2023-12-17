@@ -28,4 +28,5 @@ button {
   border: none;
   border-radius: 2px;
   cursor: pointer;
+  margin: 2px;
 }
