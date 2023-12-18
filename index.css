@@ -2,7 +2,7 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
     sans-serif;
   text-align: center;
-  background-image: url("/table.png");
+  background-image: url("images/table.png");
   background-size: cover;
   color: white;
   font-weight: bold;
